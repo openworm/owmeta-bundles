@@ -1,53 +1,53 @@
 {
    "openworm/owmeta-data" : {
       "1" : {
-          "url": "owmeta-data.tar.xz",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/master/files/owmeta-data.tar.xz",
           "hashes": {"sha256": "39ce123ec630e0f03f3b153aae3942c230a7152283d6cfdde97917406a8bd8f0"}
       },
       "2" : {
-          "url": "https://drive.google.com/uc?id=11e2UqpkJ7wiVit2ceslwo6ARdeeWm72J&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-data-2.tar.xz",
           "hashes": {"sha256": "9ef4cc085923f1c1cadd41220e6e9ab8cc408a8c3a3566aae30cfadf684deb09"}
       },
       "3" : {
-          "url": "https://drive.google.com/uc?id=1fVY8YkQK9-t2sA1bZ1bl4Un_F8zAvtPP&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-data-3.tar.xz",
           "hashes": {"sha256": "2a9bc7daff597919f037d2b17c55eaa3307dc8752bf4a81e532ab18bd3f9b6ec"}
       },
       "4" : {
-          "url": "https://drive.google.com/uc?id=1YABBticmcNdjXZhIqKcOaIk38gJY_VTa&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-data-4.tar.xz",
           "hashes": {"sha256": "eb27fc56594af5cc3e90096e9907475519f5da949f5def8b8f973abceac4c2b6"}
       },
       "6" : {
-          "url": "https://drive.google.com/uc?id=15JJcMyfgxtXsQp4GhmM-4c0ryi_RGph5&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-data-6.tar.xz",
           "hashes": {"sha256": "9d16981e60670e91d3825f045ad1993448f38dc49ad567076574fb3835a130e0"}
       }
    },
    "openworm/owmeta-core" : {
       "1" : {
-          "url": "https://drive.google.com/uc?id=1PvOi70Mn0nitQBR1ARPNZrra0g1BKheb&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-core.tar.xz",
           "hashes": {"sha256": "26e324bc5b8e7665974f58e2c764c3ff2fee5cb5ef78a559139e610028020f7e"}
       },
       "3" : {
-          "url": "https://drive.google.com/uc?id=1xK8_HzZkLjkW3NDXCW5CivBnaT5V6oc5&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-core-3.tar.xz",
           "hashes": {"sha256": "53ca7d6f4b389ef2a0ff8afef7390cdb2e9099d698dbbfa3d6d11f824b283827"}
       }
    },
    "openworm/owmeta-movement-schema": {
        "4": {
-           "url": "https://drive.google.com/uc?id=1m6wJspoSej2hI5peLYLlaN5_NkGugEn2&authuser=0&export=download",
+           "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-movement-schema.tar.xz",
            "hashes": {"sha256": "dfb67bd4154b40d72052e1af497d53ca127fcb172bd941baebec468026c0a21e"}
        }
    },
    "openworm/owmeta-schema" : {
       "1" : {
-          "url": "https://drive.google.com/uc?id=1TATScUeV7j4uxt_7s5LSJtppwYehve2M&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-schema.tar.xz",
           "hashes": {"sha256": "363bde6b9164ecc01dcc7946f1677eb52e7d74dca06a0886e20b5c17445ac0c0"}
       },
       "2" : {
-          "url": "https://drive.google.com/uc?id=195Kiw3IsF_04SSlc86fc4Po-Cm2JGSeU&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-schema-2.tar.xz",
           "hashes": {"sha256": "23c78cda6868eab24afba792c448ff23c3a80201437697b6065289c5706046c7"}
       },
       "3" : {
-          "url": "https://drive.google.com/uc?id=13ixga4TA5KP4rLrPFlTHVd8A5Jyq0NXd&authuser=0&export=download",
+          "url": "https://github.com/openworm/owmeta-bundles/raw/files_in_repo/files/owmeta-schema-3.tar.xz",
           "hashes": {"sha256": "61ec6754eb057d36c1a68281f375a0e580ed56732033a36952067bb6538b1606"}
       }
    }
